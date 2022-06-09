@@ -1,0 +1,5 @@
+jupyter
+voila
+ipyvuetify
+voila-vuetify
+voila-material
