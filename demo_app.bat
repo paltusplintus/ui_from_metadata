@@ -1,1 +1,0 @@
-venv\Scripts\python -m voila app.ipynb
